@@ -287,7 +287,7 @@ These projects demonstrate proficiency in:
 4. **Content Generation**: Creating SEO-optimized, structured content
 5. **Video Processing**: Programmatic video creation with Python
 6. **Web Development**: Building interactive UIs with Streamlit
-7. **API Design**: RESTful API contracts and data flows
+
 
 ---
 
