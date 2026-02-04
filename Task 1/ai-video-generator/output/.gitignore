@@ -1,0 +1,6 @@
+# This directory contains generated videos
+# Videos are excluded from version control due to file size
+
+*.mp4
+*.txt
+!.gitkeep

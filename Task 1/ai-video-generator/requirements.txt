@@ -1,0 +1,21 @@
+# AI Video Generation Tool - Dependencies
+
+# Cohere API - for script generation
+cohere>=5.0.0
+
+# News fetching via RSS
+feedparser>=6.0.0
+
+# Video generation (PIL + OpenCV)
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Streamlit UI
+streamlit>=1.28.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP requests
+requests>=2.31.0

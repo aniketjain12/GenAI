@@ -1,0 +1,23 @@
+# SEO Blog Creation Tool - Dependencies
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# AI/LLM
+cohere>=4.0.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Web UI
+streamlit>=1.30.0
+
+# Utilities (included in Python standard library, listed for documentation)
+# dataclasses - Python 3.7+
+# typing - Python 3.5+
+# datetime - standard library
+# logging - standard library
+# re - standard library
+# os - standard library
+# argparse - standard library
