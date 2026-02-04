@@ -291,12 +291,3 @@ These projects demonstrate proficiency in:
 
 ---
 
-## 📜 License
-
-These projects are created for educational and demonstration purposes.
-
----
-
-## 👨‍💻 Author
-
-GenAI Tasks Portfolio - Demonstrating Modern AI Application Development
