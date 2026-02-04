@@ -235,7 +235,7 @@ Task 3/
 cd "Task 1/ai-video-generator"
 
 # Web Interface
-streamlit run app.py
+python -m streamlit run app.py
 
 # CLI
 python main.py --topic "artificial intelligence" --duration 30
@@ -246,7 +246,7 @@ python main.py --topic "artificial intelligence" --duration 30
 cd "Task 2"
 
 # Web Interface
-streamlit run app.py
+python -m streamlit run app.py
 
 # CLI
 python main.py --books 5 --format markdown
@@ -257,7 +257,7 @@ python main.py --books 5 --format markdown
 cd "Task 3"
 
 # Web Interface
-streamlit run app.py
+python -m streamlit run app.py
 
 # CLI
 python main.py
