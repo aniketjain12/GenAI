@@ -136,7 +136,7 @@ You have **two options** to run the application:
 #### Option A: Streamlit Web UI (Recommended for beginners)
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 This opens a user-friendly web interface in your browser at `http://localhost:8501`
